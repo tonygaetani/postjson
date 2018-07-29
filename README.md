@@ -1,3 +1,3 @@
-= POSTJSON
+# POSTJSON
 
 posts json from stdin
